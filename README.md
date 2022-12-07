@@ -1,5 +1,6 @@
 # POS
 Sample Angular Project.
+<br>
 Status: <strong> ONGOING </strong>
 <h3>Key Features:</h3>
 <ul>
