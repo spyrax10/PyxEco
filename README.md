@@ -1,4 +1,5 @@
-# POS
+# PyxEco
+
 Sample Angular Project.
 <br>
 Status: <strong> ONGOING </strong>
