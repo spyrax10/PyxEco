@@ -11,7 +11,7 @@ Status: <strong> ONGOING </strong>
   <li> Connected to .NET core 6 web API </li>
 </ul>
 <br>
-# Completed Module:
+<h3> Completed Module: </h3>
 <ul>
 <li> User Setup </li>
 </ul>
