@@ -10,9 +10,15 @@ Status: <strong> ONGOING </strong>
   <li> With custom domain that configured in AWS route 53 </li>
   <li> Connected to .NET core 6 web API </li>
 </ul>
-
+<br>
+# Completed Module:
+<ul>
+<li> User Setup </li>
+</ul>
 <br> <br>
 sample credential: <br>
 username: spyrax10 pass: 12345
 
 Link: https://www.pos-spyrax10.ml
+
+
