@@ -11,5 +11,7 @@ Status: <strong> ONGOING </strong>
 </ul>
 
 <br> <br>
+sample credential: <br>
+username: spyrax10 pass: 12345
 
 Link: https://www.pos-spyrax10.ml
