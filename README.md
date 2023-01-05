@@ -1,6 +1,7 @@
 # PyxEco
 
-Sample Angular Project.
+E-Commerce Website (Angular)
+
 <br>
 Status: <strong> ONGOING </strong>
 <h3>Key Features:</h3>
@@ -14,6 +15,9 @@ Status: <strong> ONGOING </strong>
 <h3> Completed Module: </h3>
 <ul>
 <li> User Setup </li>
+<li> Login & Registration </li>
+<li> Branch Setup </li>
+<li> Category Setup </li>
 </ul>
 <br> <br>
 sample credential: <br>
