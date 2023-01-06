@@ -18,6 +18,7 @@ Status: <strong> ONGOING </strong>
 <li> Login & Registration </li>
 <li> Branch Setup </li>
 <li> Category Setup </li>
+<li> Sub-Category Setup </li>
 </ul>
 <br> <br>
 sample credential: <br>
