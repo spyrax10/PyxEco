@@ -12,7 +12,7 @@ Status: <strong> ONGOING </strong>
   <li> Connected to .NET core 6 web API </li>
 </ul>
 <br>
-<h3> Completed Module: </h3>
+<h3> Completed Module & Functionalities: </h3>
 <ul>
 <li> User Setup </li>
 <li> Login & Registration </li>
@@ -20,6 +20,7 @@ Status: <strong> ONGOING </strong>
 <li> Category Setup </li>
 <li> Sub-Category Setup </li>
 <li> Category Specification Setup </li>
+<li> Exportation of Data to Excel </li>
 </ul>
 <br> <br>
 sample credential: <br>
